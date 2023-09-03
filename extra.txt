@@ -30,4 +30,10 @@
 pip install -r requirements.tx
 
 
+# Git commands
+# git add .
+# git status
+# git commit -m "setup"
+# git push -u origin main 
+
 

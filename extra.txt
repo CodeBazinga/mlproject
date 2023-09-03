@@ -1,0 +1,33 @@
+
+
+# create virtual env in MLProject
+# 1) conda create -p venv python==3.8  -y
+# Mehod-2
+# python -m venv venv1
+
+# Activate the environment
+# 2) conda activate venv/
+# Method 2
+# .\venv1\Scripts\activate
+
+
+
+# Git commands
+# git init
+# add a reeadme file and then write
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/CodeBazinga/mlproject.git
+# git push -u origin main
+
+# Check git global config
+# git config --global user.email
+# git config --global user.name
+
+
+# Install requirements.txt
+pip install -r requirements.tx
+
+
+
